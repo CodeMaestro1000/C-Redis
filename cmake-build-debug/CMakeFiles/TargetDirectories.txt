@@ -1,0 +1,3 @@
+/home/timothy/Desktop/c_projects/redis/cmake-build-debug/CMakeFiles/redis.dir
+/home/timothy/Desktop/c_projects/redis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timothy/Desktop/c_projects/redis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
